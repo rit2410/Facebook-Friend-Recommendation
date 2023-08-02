@@ -2,9 +2,9 @@
 
 In the context of social linkage or social network analysis, various similarity measures are used to quantify relationships between individuals or entities within a network. These measures help identify connections, assess similarity, and infer potential links in social networks. Some common similarity measures used for social linkage problem statements include:
 
-* **1. Jaccard Similarity**: Measures the proportion of shared neighbors between two individuals relative to the total number of neighbors they have. It's particularly useful for binary relationships, like shared interests or connections.
+- **1. Jaccard Similarity**: Measures the proportion of shared neighbors between two individuals relative to the total number of neighbors they have. It's particularly useful for binary relationships, like shared interests or connections.
 
-* **2. Cosine Similarity:** Quantifies the cosine of the angle between two vectors representing individuals' attributes or behaviors. It's often applied to feature-based representations, such as user profiles or document vectors.
+- **2. Cosine Similarity:** Quantifies the cosine of the angle between two vectors representing individuals' attributes or behaviors. It's often applied to feature-based representations, such as user profiles or document vectors.
 
 **3. Pearson Correlation Coefficient:** Assesses the linear correlation between two individuals' attributes. It's useful for measuring similarity when the data is continuous and has a linear relationship.
 
